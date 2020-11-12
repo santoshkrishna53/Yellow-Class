@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/santoshkrishna53/Yellow-Class/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/santoshkrishna53/Yellow-Class/static/js/main.303fd0d8.chunk.js",
+    "main.js.map": "/santoshkrishna53/Yellow-Class/static/js/main.303fd0d8.chunk.js.map",
+    "runtime-main.js": "/santoshkrishna53/Yellow-Class/static/js/runtime-main.296502b7.js",
+    "runtime-main.js.map": "/santoshkrishna53/Yellow-Class/static/js/runtime-main.296502b7.js.map",
+    "static/js/2.b3c2bce1.chunk.js": "/santoshkrishna53/Yellow-Class/static/js/2.b3c2bce1.chunk.js",
+    "static/js/2.b3c2bce1.chunk.js.map": "/santoshkrishna53/Yellow-Class/static/js/2.b3c2bce1.chunk.js.map",
+    "static/js/3.6b52a915.chunk.js": "/santoshkrishna53/Yellow-Class/static/js/3.6b52a915.chunk.js",
+    "static/js/3.6b52a915.chunk.js.map": "/santoshkrishna53/Yellow-Class/static/js/3.6b52a915.chunk.js.map",
+    "index.html": "/santoshkrishna53/Yellow-Class/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/santoshkrishna53/Yellow-Class/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b3c2bce1.chunk.js.LICENSE.txt": "/santoshkrishna53/Yellow-Class/static/js/2.b3c2bce1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.296502b7.js",
+    "static/js/2.b3c2bce1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.303fd0d8.chunk.js"
+  ]
+}
